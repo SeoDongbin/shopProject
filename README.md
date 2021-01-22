@@ -16,6 +16,7 @@
              구현 단계 (주간보고서, 테스트 보고서, 소스 코드, 프로젝트 완료 보고서)
 
 - 기 능 설 명
+
  ○ 회원관리
   - 회원가입 : 주소 API를 이용한 주소검색 시스템 이용
   - 로그인 : AJAX를 이용해 ID 혹은 PW 불일치 시 메시지 출력 로그인 성공시 session을 이용해 로그인 유지
@@ -38,11 +39,11 @@
  -그 외 사용기술
    Maven / MyBatis / JSTL / 커맨드객체 / JQuery
  
-- 보완 사항
- Spring Security를 이용한 로그인 체계 강화
- Transaction 관리
- AOP 디자인패턴 적용
- 결제모듈이용
- Restfull API 구현
- Exception 처리
+  - 보완 사항
+   Spring Security를 이용한 로그인 체계 강화
+   Transaction 관리
+   AOP 디자인패턴 적용
+   결제모듈이용
+   Restfull API 구현
+   Exception 처리
    
